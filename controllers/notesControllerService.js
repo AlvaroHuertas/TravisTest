@@ -2,7 +2,7 @@
 
 module.exports.registerNote = function registerNote(req, res, next) {
   res.send({
-    message: 'This is the mockup controller for registerNote'
+    message: 'This is the motherfucking controller for registerNote'
   });
 };
 
