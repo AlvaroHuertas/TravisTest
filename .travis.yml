@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+deploy:
+  provider: heroku
+  api_key: 839b00b8-a153-43fb-a893-997a480f88ad
+  app: probando-travis
